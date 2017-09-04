@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.fitnessblender" name="Fitness Blender" version="0.9.0" provider-name="Dangelus">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <summary lang="en">Watch workout videos from FitnessBlender.com</summary>
+    
+    <description lang="en">Ned and Nate are two members of Team Kodi. Ned is primarily responsible for the Kodi Wiki. Nate is the Foundation president and does various jobs related to project and community management for the group. They decided to put together the KordKutters project because, frankly, they didn’t have much to do one week, and it seemed like it could be fun. They’ve been showing off Kodi for years at conventions and expos, so why not start doing videos with the exact same idea in mind?</description>
+        <disclaimer lang="en">The author is not affiliated either with FitnessBlender.com</disclaimer>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <source></source>
+    <website>https://www.fitnessblender.com/</website>
+    <platform>all</platform>
+  </extension>
+</addon>
