@@ -10,11 +10,12 @@
     <language>en</language>
     <summary lang="en">Watch workout videos from FitnessBlender.com</summary>
     
-    <description lang="en">Ned and Nate are two members of Team Kodi. Ned is primarily responsible for the Kodi Wiki. Nate is the Foundation president and does various jobs related to project and community management for the group. They decided to put together the KordKutters project because, frankly, they didn’t have much to do one week, and it seemed like it could be fun. They’ve been showing off Kodi for years at conventions and expos, so why not start doing videos with the exact same idea in mind?</description>
+    <description lang="en">Fitness Blender provides free full length workout videos, workout routines, healthy recipes and more.
+</description>
         <disclaimer lang="en">The author is not affiliated either with FitnessBlender.com</disclaimer>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
     <forum></forum>
-    <source></source>
+    <source>https://github.com/dangelus1138/fitnessblender</source>
     <website>https://www.fitnessblender.com/</website>
     <platform>all</platform>
   </extension>
